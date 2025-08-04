@@ -126,12 +126,6 @@ The system processes a dataset of sentences and additional test cases. Example o
 - Optimize the bigram model for larger datasets.
 
 ---
-
-## Team Members
-- Hassan Hamed Zoghly
-- Abdelrhman Ahmed Ezzat
-- Ahmed Abdullateif Amer
-- Mostafa Nasser Fouda
 - Asem Ahmed Mohamed
 
 ---
